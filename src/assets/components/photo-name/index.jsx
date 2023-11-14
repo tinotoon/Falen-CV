@@ -3,7 +3,7 @@ import React from 'react'
 const PhotoName = () => {
   return (
     <div className="photo-and-name">
-    <img src="./src/assets/img/profile.jpg" className="photo" alt="Profile Picture" />
+    <img src="https://github.com/tinotoon/Falen-CV/blob/master/src/assets/img/profile.jpg?raw=true" className="photo" alt="Profile Picture" />
     <div className="contact-info-box">
       <h1 className="name">FALENTINO MARKY</h1>
       <br />
